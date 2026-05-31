@@ -177,3 +177,10 @@ The payload returned is a highly secure JWE (Encrypted JWT). Your backend must u
 eyJhbGciOiJFQ0RILUVTK0EyNTZLVyIsImVuYyI6IkEyNTZHQ00iLCJraWQiOiJjbGllbnQtZW5jLWtleS12NSJ9...[Encrypted Payload]
 
 ```
+
+v5
+<img width="1498" height="814" alt="myinfo_v5_new_new_bigsize" src="https://github.com/user-attachments/assets/2a7ed646-d9fd-4529-bb51-8f621c147f8e" />
+
+v4
+<img width="1024" height="559" alt="myinfo_v4_new" src="https://github.com/user-attachments/assets/da221491-6597-4ebe-b3b5-70e861b87832" />
+
