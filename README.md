@@ -1,3 +1,5 @@
+https://docs.developer.singpass.gov.sg/docs/technical-specifications/integration-guide/1.-authorization-request
+
 To implement the Singpass Myinfo v5 flow, it is important to clarify a key cryptographic change: **Singpass v5 has completely deprecated X.509 public key certificates (`.crt` / `.pem` files)**.
 
 Instead, it strictly uses a **JSON Web Key Set (JWKS)** for all client authentication, token encryption, and DPoP signing mechanisms. You will maintain a JSON file containing your public keys hosted on an endpoint or configured via the Singpass Developer Portal.
